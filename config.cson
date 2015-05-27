@@ -1,0 +1,20 @@
+"*":
+  "exception-reporting":
+    userId: "06235f3d-9be6-fb07-f1e5-d3751cd20869"
+  welcome:
+    showOnStartup: false
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "Thumbs.db"
+      ".pyc"
+    ]
+    projectHome: "~/.ghq/github.com/hachibeeDI/"
+  editor:
+    invisibles:
+      {}
+    fontFamily: "Ricty Diminished Discord"
+    softWrap: true
